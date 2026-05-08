@@ -1,0 +1,1 @@
+console.log("TECHNEAR WEBSITE LOADED");
